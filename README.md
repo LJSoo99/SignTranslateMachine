@@ -90,7 +90,6 @@ RPI4: Core Pi
 ```
 // glove
 gcc -o glove glove.c -lbcm2835 -lpthread
-sudo ./glove.c
 ```
 
 ```
