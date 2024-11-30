@@ -4,6 +4,10 @@
 
 이 repository는 Ajou University System Programming & practice 수업의 Team 7이 개발한 “Sign Translation Machine” 프로젝트의 코드와 문서를 포함하고 있습니다. 이 프로젝트의 주요 목표는 Smart Glove를 사용하여 수화(수어)를 실시간으로 한국어 문자로 번역하여 청각 장애인과 청인 간의 의사소통을 향상시키는 것입니다.
 
+## Demo
+
+[![프로젝트 시연 영상](https://img.youtube.com/vi/tprs2gadxFQ/0.jpg)](https://youtu.be/tprs2gadxFQ)
+
 ## Team Member
 
 | Name | Dept | Github | 
@@ -56,10 +60,6 @@ RPI4: Core Pi
 	•	다른 모듈 간의 통신을 관리하는 중앙 서버 역할을 합니다.
 	•	이진 입력 데이터를 처리하고 한국어 문자로 매핑합니다.
 	•	처리된 데이터를 출력 모듈로 전송하고 오류를 보고합니다.
-
-## Demo
-
-[![프로젝트 시연 영상](https://img.youtube.com/vi/tprs2gadxFQ/0.jpg)](https://youtu.be/tprs2gadxFQ)
 
 ## Installation
 
