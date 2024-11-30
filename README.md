@@ -1,12 +1,12 @@
 # signTranslateMachine
 
-## Overview
-
-이 repository는 Ajou University System Programming & practice 수업의 Team 7이 개발한 “Sign Translation Machine” 프로젝트의 코드와 문서를 포함하고 있습니다. 이 프로젝트의 주요 목표는 Smart Glove를 사용하여 수화(수어)를 실시간으로 한국어 문자로 번역하여 청각 장애인과 청인 간의 의사소통을 향상시키는 것입니다.
-
 ## Demo
 
 [![프로젝트 시연 영상](https://img.youtube.com/vi/tprs2gadxFQ/0.jpg)](https://youtu.be/tprs2gadxFQ)
+
+## Overview
+
+이 repository는 Ajou University System Programming & practice 수업의 Team 7이 개발한 “Sign Translation Machine” 프로젝트의 코드와 문서를 포함하고 있습니다. 이 프로젝트의 주요 목표는 Smart Glove를 사용하여 수화(수어)를 실시간으로 한국어 문자로 번역하여 청각 장애인과 청인 간의 의사소통을 향상시키는 것입니다.
 
 ## Team Member
 
